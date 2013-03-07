@@ -8,9 +8,11 @@ The Story
 ---------
 My team set out to build the seamless restaurant experience.
 
-On the business side is a web-app that restaurants can use
-to keep track of where customers and seated, what they have ordered,
-and their total bill.
+On the business side is a web-app that restaurants can use to:
+* keep track of where customers are seated
+* receive real-time orders from customers
+* get notified if a customer would like to see a waiter
+* accept payments from a customer
 
 On the consumer side is an Android application that customers can use to:
 * check into restaurants (via NFC tags available at each table
