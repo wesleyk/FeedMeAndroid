@@ -1,7 +1,0 @@
-package com.android.feedmeandroid;
-
-public static final String FEED_ME_ID = "feed_me:";
-
-public class Constants {
-
-}
