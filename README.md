@@ -2,7 +2,7 @@ FeedMe
 ======
 
 FeedMe was our Greylock Hackfest 2012 entry,
-built on 7/20/12-7/21/12 at Dropbox.
+built on 7/21/12-7/22/12 at Dropbox.
 
 The Story
 ---------
